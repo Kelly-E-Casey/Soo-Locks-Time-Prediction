@@ -17,7 +17,7 @@ Python packages required:
    - Run all cells in `01_data_cleaning.ipynb`
 3. Run the ML models
    - Run all cells in `02_modeling.ipynb`
-   - Compare results of various ML models in the last cell
+   - Compare results of various ML models near the end
    - Each row shows that model's RMSE (in minutes) 
 
 ### License:
